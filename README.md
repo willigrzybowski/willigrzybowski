@@ -4,9 +4,8 @@
 
 <div style="display: flex; gap: 0.5rem">
 
-![Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=willigrzybowski&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willigrzybowski&show_progress=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=willigrzybowski&show_icons=true&theme=tokyonight" alt="Willian's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willigrzybowski&show_progress=true&theme=tokyonight" alt="Top Langs">
 
 </div>
 
