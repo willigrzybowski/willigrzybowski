@@ -2,7 +2,7 @@
 ### Olá, eu sou o Willian Grzybowski 💬
 ### GitHub Analytics:
 
-<div style="display: flex; gap: 0.5rem">
+<div style="display: flex;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=willigrzybowski&show_icons=true&theme=tokyonight" alt="Willian's GitHub stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willigrzybowski&show_progress=true&theme=tokyonight" alt="Top Langs">
