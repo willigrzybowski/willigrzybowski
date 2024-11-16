@@ -15,7 +15,7 @@
 ### Skills ⚡
 <div style="display: flex; gap: 0.5rem">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,figma)]()
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,figma)
 
 </div>
 <!--
