@@ -1,7 +1,7 @@
 
 ## Olá, eu sou o Willian Grzybowski 💬
 
-<p>Estudante da Etec Itu, cursando Desenvolvimento de Sistemas. Aprendendo mais sobre a área de desenvolvimento para web! 🎈 </p>
+<p>Estudante da Etec Itu, cursando Desenvolvimento de Sistemas. Aprendendo mais sobre a área de desenvolvimento web e outros! 🎈 </p>
 
 ### GitHub Analytics:
 
